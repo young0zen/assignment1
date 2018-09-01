@@ -54,10 +54,10 @@ public class ProblemSpec {
 
 	
 	/** Returns the width of the robot **/		
-	public double getRobotWidth() {return robotWidth;}
+	public double getRobotWidth() { return robotWidth; }
 
 	/** Returns a list of static obstacles **/		
-    public List<StaticObstacle> getStaticObstacles() {return staticObstacles;}
+    public List<StaticObstacle> getStaticObstacles() { return staticObstacles; }
 
 	/** Returns the initial robot config **/		
     public RobotConfig getInitialRobotConfig() { return initialRobotConfig; }

@@ -7,7 +7,7 @@ import java.awt.geom.Point2D;
  * 
  * @author Sergiy Dudnikov
  */
-public class RobotConfig {
+public class  RobotConfig {
 
     /** The position of the robot */
     private Point2D pos;
