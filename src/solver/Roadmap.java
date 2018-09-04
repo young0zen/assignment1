@@ -1,11 +1,6 @@
 package solver;
 
-import problem.ProblemSpec;
-
-import java.util.List;
-
 public interface Roadmap {
-
     /**
      * Add the sample or derived Vertex to the current map
      * @param sample the Vertex to be added
